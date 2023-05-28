@@ -12,7 +12,7 @@ or use personal server:\
 `chmod +x ./docker.sh`\
 \
 3.Run script\
-`./docker.sh`\
+`./docker.sh`
 
 # Used third-party mirrors
 https://mirrors.ustc.edu.cn/debian/

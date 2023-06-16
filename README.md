@@ -16,3 +16,6 @@ or use personal server:\
 
 # Used third-party mirrors
 https://mirrors.ustc.edu.cn/debian/
+https://mirrors.tuna.tsinghua.edu.cn/debian/
+https://mirrors.aliyun.com/debian/
+http://mirrors.163.com/debian/

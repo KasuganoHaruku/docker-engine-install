@@ -15,7 +15,7 @@ or use personal server:\
 `./docker.sh`
 
 # Used third-party mirrors
-https://mirrors.ustc.edu.cn/debian/
-https://mirrors.tuna.tsinghua.edu.cn/debian/
-https://mirrors.aliyun.com/debian/
+https://mirrors.ustc.edu.cn/debian/ \
+https://mirrors.tuna.tsinghua.edu.cn/debian/ \
+https://mirrors.aliyun.com/debian/ \
 http://mirrors.163.com/debian/

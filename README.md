@@ -1,5 +1,5 @@
 # docker-engine-install
-A bash script to install docker-engine using third-party mirrors to boost up install speed inside GFW
+A bash script to install docker-engine on Debian using third-party mirrors to boost up install speed inside GFW
 
 # Usage
 1.Download script:\
